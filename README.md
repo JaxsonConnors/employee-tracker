@@ -24,6 +24,8 @@
   ### **Usage**
   ___
   Simply run 'node index.js' in the terminaland follow the prompts.
+  
+  https://watch.screencastify.com/v/CK3tQR5Pq3dmvUfck15e
 
 
   ### **License**
